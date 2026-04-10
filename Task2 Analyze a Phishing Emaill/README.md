@@ -203,4 +203,72 @@ After completing this analysis, you can:
 - Detect fake domains and links  
 - Understand social engineering techniques  
 
+
+## 🎯 Interview Questions & Answers (Phishing Email Analysis)
+
+### 1. What is phishing?
+
+Phishing is a type of cyber attack where attackers trick users into revealing sensitive information like passwords, credit card details, or personal data by pretending to be a trusted entity.
+
+---
+
+### 2. How to identify a phishing email?
+
+Phishing emails can be identified by:
+
+* Suspicious sender address
+* Urgent or threatening language
+* Fake or mismatched links
+* Grammar or spelling mistakes
+* Unexpected attachments
+
+---
+
+### 3. What is email spoofing?
+
+Email spoofing is when an attacker forges the sender's email address to make it appear as if it comes from a trusted source.
+
+---
+
+### 4. Why are phishing emails dangerous?
+
+They can lead to:
+
+* Credential theft
+* Financial loss
+* Malware infection
+* Unauthorized access to accounts
+
+---
+
+### 5. How can you verify the sender’s authenticity?
+
+* Check sender email domain
+* Verify through official website
+* Avoid clicking links directly
+* Use email header analysis tools
+
+---
+
+### 6. What tools can analyze email headers?
+
+* MXToolbox
+* Google Admin Toolbox
+* Message Header Analyzer
+
+---
+
+### 7. What actions should be taken on suspected phishing emails?
+
+* Do not click any links
+* Do not download attachments
+* Report the email
+* Delete it immediately
+
+---
+
+### 8. How do attackers use social engineering in phishing?
+
+Attackers manipulate human psychology using fear, urgency, or trust to trick users into taking actions like clicking malicious links or sharing sensitive information.
+
 ---
