@@ -25,7 +25,6 @@ Phishing = **Deception + Social Engineering**
 
 
 
-![Email Body](https://github.com/BhagyaDharennavar/Phishing-Email-Analysis/blob/main/screenshots/Screenshot%202025-12-09%20135108.png)
 
 ### What we see in the screenshot:
 
@@ -56,7 +55,6 @@ The email CLAIMS to be from Deloitte, but the sender domain belongs to a complet
 # 🟦 4. Email Header Analysis (Understanding Each Field)
 
 
-![Email Header](https://github.com/BhagyaDharennavar/Phishing-Email-Analysis/blob/main/screenshots/Screenshot%202025-12-09%20132724.png)
 
 ---
 
